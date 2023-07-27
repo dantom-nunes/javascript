@@ -1,2 +1,2 @@
 # javascript
- Projetos em JavaScript
+ Projetos usando JavaScript, HTML e CSS
